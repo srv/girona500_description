@@ -12,5 +12,4 @@
   <!-- Load basic girona500 urdf -->
   <xacro:include filename="$(arg robot_xacro)"/>
 
-
 </robot>
